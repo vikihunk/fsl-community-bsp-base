@@ -215,7 +215,7 @@ EOF
 
     sleep 4
 
-    more -d $FSL_EULA_FILE
+    #more -d $FSL_EULA_FILE
     echo
     REPLY=
     while [ -z "$REPLY" ]; do
